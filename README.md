@@ -10,4 +10,4 @@ owen was here
 Darryl was here \0.0/
 
 
-kevin was hereqpk,wd[]q
+kevin was here
