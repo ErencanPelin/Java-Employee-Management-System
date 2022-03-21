@@ -42,6 +42,7 @@
       <br>
       <input type="text" id="tos" name="tos" value="">
       <br>
+      <br>
       <input type="submit" value="Submit">
     </form>
   </body>
