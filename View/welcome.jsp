@@ -11,7 +11,7 @@
   </head>
   <body>
     <form action="/action_page.php">
-      <label>Welcome!</label>
+      <label>Welcome! + name </label>
     </form>
   </body>
 </html>
