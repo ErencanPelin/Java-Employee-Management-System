@@ -12,7 +12,7 @@
       <br>
       <input type="text" id="email" name="email" value="">
       <br>
-      <label for="name">FullName:</label>
+      <label for="name">Name:</label>
       <br>
       <input type="text" id="name" name="name" value="">
       <br>
