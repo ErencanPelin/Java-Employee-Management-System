@@ -19,6 +19,7 @@
       <br>
       <input type="password" id="input" name="password" value="">
       <br>
+      <br>
       <input type="submit" value="Submit">
     </form>
   </body>
