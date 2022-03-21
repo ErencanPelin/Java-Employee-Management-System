@@ -38,7 +38,7 @@
       <br>
       <input type="text" id="favcol" name="favcol" value="">
       <br>
-      <label for="tos">TOS:</label>
+      <label for="tos">Agree to TOS:</label>
       <br>
       <input type="text" id="tos" name="tos" value="">
       <br>
