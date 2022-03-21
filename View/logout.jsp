@@ -1,5 +1,5 @@
 <%-- 
-    Document   : register
+    Document   : logout
     Created on : Mar 21, 2022, 2:15:09 PM
     Author     : erencan
 --%><%@page contentType="text/html" pageEncoding="UTF-8"%>
