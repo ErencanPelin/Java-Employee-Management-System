@@ -1,22 +1,22 @@
-body
+body /*main page background*/
 {
     background-color: black;
 }
 
-input
+input /*for input boxes, buttons (anthing with <input> in html*/
 {
   background-color: #aaaaaa;
   margin: 10;
 }
 
-.inputButton
+.inputButton /*input button override style (for buttons)*/
 {
   padding: 5 10 5 10;
   margin: 10;
   background-color: #ffffff;
 }
 
-select
+select /*drop down style*/
 {
     margin: 10 0;
     color: #111111;
@@ -24,14 +24,19 @@ select
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
-label
+label /*label styles*/
 {
     padding: 10 0;
     color: azure;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
-p
+p /*general text (paragraph) styles*/
 {
     color: azure;
+}
+
+h1 /*largets header style*/
+{
+    font-size: x-large;
 }
