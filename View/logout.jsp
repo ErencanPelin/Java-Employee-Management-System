@@ -11,7 +11,7 @@
   </head>
   <body>
     <form action="/action_page.php">
-        <label>You've been Logged out</label>>
+        <label>You've been Logged out</label>
     </form>
   </body>
 </html>
