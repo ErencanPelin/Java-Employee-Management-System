@@ -12,6 +12,10 @@
   <body>
     <form action="/action_page.php">
       <label>Welcome!</label>
+      <script language="javascript">
+        var userid = document.getElementById("name").value;
+document.write(Welcome + "name");
+</script>
     </form>
   </body>
 </html>
