@@ -12,22 +12,23 @@
       <br>
       <input type="text" id="email" name="email" value="">
       <br>
-      <label for="name">Name:</label>
+      <label for="name">Full Name:</label>
       <br>
       <input type="text" id="name" name="name" value="">
-      <br>
       <br>
       <label for="password">Password:</label>
       <br>
       <input type="password" id="input" name="password" value="">
       <br>
+      <br>
       <label for="gender">Gender</label>
       <select name="gender">
-        <option value="none" selected>Gender</option>
+        <option value="none" selected>None</option>
         <option value="male">Male</option>
         <option value="female">Female</option>
-        <option value="other">other</option>
+        <option value="other">Other</option>
       </select>
+      <br>
       <br>
       <label for="favcol">Favorite Color:</label>
       <br>
@@ -36,6 +37,7 @@
       <label for="tos">TOS:</label>
       <br>
       <input type="text" id="tos" name="tos" value="">
+      <br>
       <br>
       <input type="submit" value="Submit">
     </form>

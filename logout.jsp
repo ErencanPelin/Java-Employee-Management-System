@@ -8,5 +8,12 @@
   <head> Welcome </head>
   <body>
     <p title="Logout:">
+
+      <body>
+        
+          <p>You have been successfully logout.</p>
+      
+          <br>Go to Home Page <a href="mainPage.jsp">Main</a>
+      </body>
   </body>
 </html>
