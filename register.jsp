@@ -12,7 +12,7 @@
       <br>
       <input type="text" id="email" name="email" value="">
       <br>
-      <label for="name">Name:</label>
+      <label for="name">Full Name:</label>
       <br>
       <input type="text" id="name" name="name" value="">
       <br>
@@ -26,7 +26,7 @@
         <option value="none" selected>None</option>
         <option value="male">Male</option>
         <option value="female">Female</option>
-        <option value="other">other</option>
+        <option value="other">Other</option>
       </select>
       <br>
       <br>
