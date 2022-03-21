@@ -1,0 +1,35 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+    {
+        "label": "StartServer",
+        "command": "./GlassFish_Server/glassfish/bin/startserv", // Could be any other shell command,
+        "isBackground": true,
+        "type": "shell",
+        "presentation": {
+            "echo": true,
+            "reveal": "always",
+            "focus": false,
+            "panel": "shared",
+            "showReuseMessage": false,
+            "clear": true
+        },
+        "problemMatcher":[{"pattern":
+            [{"regexp": ".", "file": 1, "line": 1, "column": 1, "message": 1}],
+             "background": {"activeOnStart": true, "beginsPattern":{"regexp": "."}, "endsPattern":{"regexp": "."}}}]
+    },
+    {
+        "label": "StopServer",
+        "command": "./GlassFish_Server/glassfish/bin/stopserv", // Could be any other shell command,
+        "isBackground": true,
+        "presentation": {
+            "echo": false,
+            "reveal": "always",
+            "focus": false,
+            "panel": "shared",
+            "showReuseMessage": false,
+            "clear": false
+        },
+        "type": "shell"
+    }]
+}
