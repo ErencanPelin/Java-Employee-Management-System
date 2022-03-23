@@ -3,7 +3,7 @@
     "tasks": [
     {
         "label": "StartServer",
-        "command": "./GlassFish_Server/glassfish/bin/startserv", // Could be any other shell command,
+        "command": "~/GlassFish_Server/glassfish/bin/asadmin start-domain", // Could be any other shell command,
         "isBackground": true,
         "type": "shell",
         "presentation": {
@@ -20,7 +20,7 @@
     },
     {
         "label": "StopServer",
-        "command": "./GlassFish_Server/glassfish/bin/stopserv", // Could be any other shell command,
+        "command": "~/GlassFish_Server/glassfish/bin/asadmin stop-domain", // Could be any other shell command,
         "isBackground": true,
         "presentation": {
             "echo": false,
