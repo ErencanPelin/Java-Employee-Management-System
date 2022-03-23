@@ -6,14 +6,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    Main Page
-    <link href="../view/styles.css" rel="stylesheet" type="text/css">
+    Index Page
+    <link href="../View/styles.css" rel="stylesheet" type="text/css">
   </head>
   
   <body>
     <form action="/action_page.php">
-      <label>Home</label>
-      <label>HomeVSCODE</label>
+      <label>HomeTest</label>
     </form>
   </body>
 </html>
