@@ -24,3 +24,5 @@ hs_err_pid*
 
 # IntelliJ project settings files
 .idea/
+
+GlassFish_Server/*
